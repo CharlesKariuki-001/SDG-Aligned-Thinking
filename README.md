@@ -98,9 +98,9 @@ The goal is **practical impact**, not theory only.
 
 ---
 
-## 👀 How to Explore (For Recruiters & Reviewers)
+## 👀 How to Explore 
 
-If you are a **recruiter, mentor, or collaborator**, here is how to explore:
+ here is how to explore:
 
 1. Start with **Phase 1** to understand the foundation
 2. Review **Tech-to-SDG Mapping** for applied thinking
