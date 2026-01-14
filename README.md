@@ -10,7 +10,7 @@ It demonstrates ethical thinking skills required in modern tech roles.
 
 ## 📌 Overview
 
-Technology should not only be powerful — it should be **responsible, ethical, and impactful**.
+Technology should not only be powerful , it should be **responsible, ethical, and impactful**.
 
 This repository explores:
 - How tech solutions can support specific **UN SDGs**
